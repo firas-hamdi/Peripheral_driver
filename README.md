@@ -3,4 +3,4 @@
  
  **Microcontroller: STM32F4**.
  
- **MCU: ARM cortex-M**
+ **Processor: ARM cortex-M**
